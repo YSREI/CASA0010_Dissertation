@@ -1,7 +1,5 @@
 # CASA0010_Dissertation
 
-# CASA0010 Dissertation
-
 ## Article 4 Exposure and Commercial-to-Residential Planning Applications across London Centres: The Role of Public Transport Accessibility
 
 This repository contains the reproducibility materials for my CASA0010 MSc Urban Spatial Science dissertation at UCL.
