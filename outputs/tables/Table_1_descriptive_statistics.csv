@@ -1,0 +1,14 @@
+﻿Measure,N / Value,Mean,SD,Median,Min,Max
+Panel A. Sample structure,,,,,,
+Analytical centre-boundary features,1122,,,,,
+Observed periods,11,,,,,
+Centre-period observations,12342,,,,,
+Matched applications,699,,,,,
+Centre-periods with applications,534,,,,,
+Centres with zero applications across all periods,888,,,,,
+Centres ever positively exposed to Article 4,238,,,,,
+Centres never positively exposed to Article 4,884,,,,,
+Panel B. Variable distribution,,,,,,
+Application count (centre-period),12342,0.0566,0.3112,0.0,0.0,7.0
+Article 4 share (centre-period),12342,0.0827,0.2393,0.0,0.0,1.0
+PTAL mean Access Index (centre),1122,21.9279,17.147,17.0284,0.0,146.1948

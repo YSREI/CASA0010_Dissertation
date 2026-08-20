@@ -1,0 +1,10 @@
+﻿Statistic,M1 Contextual OLS,M2 Primary within-centre OLS,M3 Poisson contextual comparison
+Article 4 share,0.0401 (0.0198),-0.0238 (0.0189),0.8572 (0.4937)
+  p-value,0.043,0.208,0.083
+PTAL Access Index (centred),0.0025 (0.0011),Absorbed by centre FE,0.0296 (0.0079)
+  p-value,0.024,,<0.001
+Article 4 share × PTAL,-0.0030 (0.0013),0.0001 (0.0004),-0.0417 (0.0140)
+  p-value,0.018,0.721,0.003
+Estimator,OLS,OLS,Poisson GLM
+Fixed effects,Borough + period,Centre-boundary + period,Borough + period
+Observations,"12,342","12,342","12,342"

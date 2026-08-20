@@ -1,0 +1,19 @@
+# Core tabular and numerical processing
+pandas==3.0.3
+numpy==2.4.6
+
+# Spatial data processing and geometry operations
+geopandas==1.1.4
+shapely==2.1.2
+
+# PLD API requests
+requests==2.34.2
+
+# Statistical modelling
+statsmodels==0.14.6
+
+# Dissertation figures
+matplotlib==3.10.9
+
+# Excel input used by the PTAL workflow
+openpyxl==3.1.5

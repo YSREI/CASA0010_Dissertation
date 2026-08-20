@@ -1,0 +1,1140 @@
+﻿source_file,source_layer,include,tier,priority_order,selection_reason
+planning_local_plan_data_04.gpkg,Small_Parades,False,,99,"Exclude: retail/shopping parade designation is a subordinate retail strip, not the whole analytical centre boundary."
+planning_local_plan_data_05.gpkg,Growth_Areas,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_05.gpkg,Places,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_05.gpkg,Revised_Parades,False,,99,"Exclude: retail/shopping parade designation is a subordinate retail strip, not the whole analytical centre boundary."
+planning_local_plan_data_06.gpkg,Office_Clusters,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_06.gpkg,Strategic_Outer_London_Development_Centre__BHA_,False,,99,Exclude: strategic development designation rather than the Local Plan town-centre boundary construct.
+planning_local_plan_data_07.gpkg,Fitzrovia_Area_Action_Plan,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_07.gpkg,Local_Plan_Growth_Area,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_08.gpkg,Place_Specific_Policy_Areas,False,,99,Reviewed second pass: not an adopted analytical centre boundary under the frozen centre construct.
+planning_local_plan_data_12.gpkg,Area_Action_Plans,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_12.gpkg,Local_Shopping_Centres,True,tier2,2,Include: official Local Plan data service identifies this as a polygon Local Shopping Centres layer; retained under the established Tier-2 retail-centre fallback rule.
+planning_local_plan_data_12.gpkg,Street_Markets,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_13.gpkg,Shopping_Areas,False,,99,"Exclude: extremely granular shopping-area layer (2,098 polygons), not a centre-boundary unit."
+planning_local_plan_data_14.gpkg,Growth_Areas,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_14.gpkg,Local_Shopping_Centres,True,tier2,2,Include: official Local Plan data service identifies this as a polygon Local Shopping Centres layer; retained under the established Tier-2 retail-centre fallback rule.
+planning_local_plan_data_14.gpkg,Tall_Building_Growth_Areas,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_17.gpkg,Secondary_Shopping_Areas,False,,99,"Exclude: secondary shopping sub-area designation, not the whole centre boundary."
+planning_local_plan_data_19.gpkg,Bunhill___Clerkenwell_Area_Action_Plan,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_22.gpkg,Brixton_Indoor_Market,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_22.gpkg,Key_Industrial_and_Business_Area_Land_with_Potential,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_22.gpkg,Key_Industrial_and_Business_Areas,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_22.gpkg,Special_Policy_Area,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_23.gpkg,Growth_Areas,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_24.gpkg,Neighbourhood_Parades,False,,99,"Exclude: retail/shopping parade designation is a subordinate retail strip, not the whole analytical centre boundary."
+planning_local_plan_data_25.gpkg,Local_Shopping_Parades,False,,99,"Exclude: retail/shopping parade designation is a subordinate retail strip, not the whole analytical centre boundary."
+planning_local_plan_data_26.gpkg,Key_Retail_Parades,False,,99,"Exclude: retail/shopping parade designation is a subordinate retail strip, not the whole analytical centre boundary."
+planning_local_plan_data_26.gpkg,Local_Business_Areas,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_27.gpkg,Twickenham_Area_Action_Plan,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_30.gpkg,Neighbourhood_Parades,False,,99,"Exclude: retail/shopping parade designation is a subordinate retail strip, not the whole analytical centre boundary."
+planning_local_plan_data_31.gpkg,Area_Action_Plans,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_31.gpkg,BHL_Neighbourhood_Retail_Parade,False,,99,"Exclude: retail/shopping parade designation is a subordinate retail strip, not the whole analytical centre boundary."
+planning_local_plan_data_31.gpkg,Billet_Road_Local_Retail_Parade,False,,99,"Exclude: retail/shopping parade designation is a subordinate retail strip, not the whole analytical centre boundary."
+planning_local_plan_data_31.gpkg,Local_Retail_Parades,False,,99,"Exclude: retail/shopping parade designation is a subordinate retail strip, not the whole analytical centre boundary."
+planning_local_plan_data_31.gpkg,Neighbourhood_Retail_Parades,False,,99,"Exclude: retail/shopping parade designation is a subordinate retail strip, not the whole analytical centre boundary."
+planning_local_plan_data_32.gpkg,Areas_Of_Special_Shopping_Character,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_32.gpkg,Important_Local_Parades,False,,99,"Exclude: retail/shopping parade designation is a subordinate retail strip, not the whole analytical centre boundary."
+planning_local_plan_data_33.gpkg,Special_Policy_Areas,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_33.gpkg,West_End_Retail_And_Leisure_Special_Policy_Area,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_34.gpkg,Potential_Future_Extension_to_Town_Centre_Boundary,False,,99,"Exclude: potential future extension, not the current adopted centre boundary."
+planning_local_plan_data_35.gpkg,Places,False,,99,"Exclude: separate policy, growth, business, market or special-character area rather than a centre boundary."
+planning_local_plan_data_02.gpkg,Barking_Town_Centre,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_02.gpkg,Neighbourhood_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_04.gpkg,Neighbourhood_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_04.gpkg,Town_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_05.gpkg,Town_Centre_Boundaries,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_06.gpkg,Town_Centre_Boundaries,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_08.gpkg,District_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_08.gpkg,Local_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_08.gpkg,Metropolitan_Centre,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_09.gpkg,Neighbourhood_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_09.gpkg,Town_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_10.gpkg,District_Centre,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_10.gpkg,Local_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_10.gpkg,Major_Centre,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_11.gpkg,District_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_11.gpkg,Town_Centre_Boundaries,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_12.gpkg,District_Town_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_12.gpkg,Major_Town_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_13.gpkg,Town_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_14.gpkg,District_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_15.gpkg,Town_Centre_Boundaries,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_16.gpkg,District_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_17.gpkg,Local_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_17.gpkg,Town_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_18.gpkg,Town_Centre_Boundaries,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_19.gpkg,Town_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_22.gpkg,District_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_22.gpkg,Local_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_22.gpkg,Major_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_23.gpkg,District_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_23.gpkg,Local_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_23.gpkg,Major_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_24.gpkg,Town_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_25.gpkg,Local_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_25.gpkg,Town_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_26.gpkg,District_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_26.gpkg,Local_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_26.gpkg,Metropolitan_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_27.gpkg,Town_Centre_Boundary,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_28.gpkg,District_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_28.gpkg,Local_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_28.gpkg,Major_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_29.gpkg,District_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_29.gpkg,Local_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_29.gpkg,Town_Centre_Boundary,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_30.gpkg,Town_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_31.gpkg,District_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_31.gpkg,Neighbourhood_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_31.gpkg,Wathamstow_Major_Centre,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_32.gpkg,Local_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_32.gpkg,Town_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_33.gpkg,District_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_33.gpkg,International_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_33.gpkg,Local_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_33.gpkg,Major_Centre,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_34.gpkg,Area_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_35.gpkg,Neighbourhood_Town_Centres,True,tier1,1,Confirmed explicit centre hierarchy / centre-boundary polygon layer.
+planning_local_plan_data_01.gpkg,Principal_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_05.gpkg,Primary_Shopping_Area,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_08.gpkg,Primary_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_10.gpkg,Primary_Shopping_Area,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_12.gpkg,Primary_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_14.gpkg,Primary_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_15.gpkg,Primary_Shopping_Area,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_17.gpkg,Core_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_17.gpkg,Primary_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_18.gpkg,Primary_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_19.gpkg,Local_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_19.gpkg,Primary_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_20.gpkg,District_Shopping_Centre,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_20.gpkg,International_Shopping_Centre,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_20.gpkg,Major_Shopping_Centres,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_20.gpkg,Neighbourhood_Shopping_Centres,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_20.gpkg,Special_District_Shopping_Centres,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_20.gpkg,Special_Neighbourhood_Shopping_Centres,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_22.gpkg,Central_Activities_Zone_Retail_Clusters,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_22.gpkg,Primary_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_23.gpkg,Primary_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_24.gpkg,Primary_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_25.gpkg,Primary_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_30.gpkg,Primary_Shopping_Areas,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_33.gpkg,CAZ_Retail_Clusters,True,tier2,2,Confirmed shopping-area / retail-centre polygon layer retained under the established Tier-2 fallback rule.
+planning_local_plan_data_01.gpkg,Airport_Safeguarding_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Assets_of_Community_Value,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Bank_Station_Safeguarding_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Cil,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_01.gpkg,City_Flood_Risk_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Crossrail_Safeguarding_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Highway_Network,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,LVMF_Protected_Vistas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Monument_Views_and_Settings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Open_Space_Audit,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Protected_Squares,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_01.gpkg,Riverside_Walk,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Safeguarded_Wharf,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Smoke_Control_Orders,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,St_Paul_s_Depth,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_01.gpkg,St_Paul_s_Heights_Policy_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_01.gpkg,Tall_Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,Thames_Tideway_Tunnel,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_01.gpkg,The_Temples,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_01.gpkg,Tower_of_London_WHS_Local_Setting_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_02.gpkg,Air_Quality_Focus_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Allotments,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_02.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,District_Centres,False,,99,"Exclude despite centre-related semantics: source geometry is point/line rather than polygon, so it cannot define the areal centre boundary required for Article 4 overlap."
+planning_local_plan_data_02.gpkg,Flood_Risk_Zone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Flood_Risk_Zone_3,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Green_Grid,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_02.gpkg,Gypsy_and_Traveller_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Gypsy_and_Traveller_Site_Options,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Listed_Buildings,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_02.gpkg,Local_Views,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_02.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,London_Riverside_Opportunity_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Public_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Safeguarded_Wharves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Scheduled_Monuments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Strategic_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Tall_Building_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_02.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_03.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_03.gpkg,Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_03.gpkg,Local_Nature_Reserve,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_03.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_03.gpkg,Metropolitan_Walks,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_03.gpkg,Road_network_GLA,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_03.gpkg,Road_network_SoS,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_03.gpkg,Site_of_Special_Scientific_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_03.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Aggregates_Sites_and_Facilities,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_04.gpkg,Allotments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Ancient_Woodland,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Conservation_Areas_Updated_210212,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Crossness_Operational_Land,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_04.gpkg,Education_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Functional_Floodplain,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Green_Corridors,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_04.gpkg,Gypsy_and_Traveller_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,LSIS,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_04.gpkg,Local_Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Local_Strategic_Views,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_04.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Minerals_Safeguarding_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Panoramic_Viewpoints,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_04.gpkg,Primarily_Residential_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Regionally_and_Locally_Important_Geological_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Road_Hierarchy,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_04.gpkg,SINC_2022,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,SSSI,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Safeguarded_Wharves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,South_East_London_Green_Chain,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,South_East_London_Green_Chain_Walk,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_04.gpkg,Strategic_Industrial_Location,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Strategic_Waste_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Sustainable_Development_Locations,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_04.gpkg,Tall_Building_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Thames_Path,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_04.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Thames_Road_Dualling,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Thamesmead_and_Abbeywood_Opportunity_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_04.gpkg,Urban_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Adopted_Waste_Management_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Air_Quality_Management_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Archaelogical_Areas_and_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_05.gpkg,Article_4_Directions,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Article_Four__HMO,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_05.gpkg,Brent_s_Air_Quality_Focus_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Capital_Ring_Walk,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_05.gpkg,Conservation_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Creative_Clusters,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_05.gpkg,Distributor_Roads,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_05.gpkg,Floodzone_3A_Fluvial_and_Tidal,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Floodzone_3A_Surface_Water,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Floodzone_3B_Fluvial_and_Tidal,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,GLA_Air_Quality_Focus_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Green_Chains,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Intensification_Corridors,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_05.gpkg,Listed_Land,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_05.gpkg,Local_Green_Space,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_05.gpkg,Local_Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Notifiable_Pipeline,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_05.gpkg,OPDC_Boundary,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_05.gpkg,Open_Spaces,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Potential_Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Primary_Shopping_Frontage,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Protected_Views,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_05.gpkg,Safeguarded_Existing_Waste_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Secondary_Shopping_Frontage,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Sinc_Grades_1_and_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,Sites_of_Special_Scientific_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_05.gpkg,Strategic_Industrial_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,TPO_Polygon,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_05.gpkg,Tall_Building_Zones,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_05.gpkg,TfL_Road_Network,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_05.gpkg,Waterside_Development,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_05.gpkg,Wildlife_Corridors,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Ancient_Monuments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Archaelogical_Priority_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_06.gpkg,Area_of_Special_Advert_Control,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_06.gpkg,Areas_of_Deficiency_In_Access_to_Nature,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_06.gpkg,Areas_of_Special_Residential_Character,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_06.gpkg,BHA_Noise_Contours,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_06.gpkg,BHA_Public_Safety_Zones,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_06.gpkg,BHA_Safeguarding_Map,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,BHA_Safeguarding_Map_Birds,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,BHA_Technical_Site_100M,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_06.gpkg,Biggin_Hill_Airport_East_Camp,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Biggin_Hill_Airport_Land_East_of_South_Camp,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Biggin_Hill_Airport_South_Camp,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Biggin_Hill_Airport_Terminal_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Biggin_Hill_Airport_West_Camp,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Business_Improvement_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_06.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Crystal_Palace_SOLDC,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_06.gpkg,Cycle_Routes,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,Education_Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Geology_Rigs___Ligs,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Green_Chain,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Highway_Proposals,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,Historic_Parks___Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_06.gpkg,Kent_AONB,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_06.gpkg,Landmarks,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,Listed_Buildings,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,Local_Distributor_Roads,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,Local_Green_Space,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_06.gpkg,Local_Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Local_Open_Space_Deficiency,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Local_Retail_Frontage,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,Locally_Listed_Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,London_City_Airport_Safeguarding_Map,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,London_City_Airport_Safeguarding_Map_Birds,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,London_Distributor_Roads,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,Major_Skyline_Ridges,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Primary_Retail_Frontage,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,Recreational_Walking_Routes,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,SINCS,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,SSSIs,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Secondary_Retail_Frontage,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Statutory_Listed_Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Strategic_Industrial_Location,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Strategic_Routes,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,Traveller_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Urban_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_06.gpkg,Views_of_Local_Importance,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_06.gpkg,Waste_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Ancient_Monuments,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_07.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Crossrail_2_Safeguarding_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Euston_Area_Plan,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_07.gpkg,HS2_Phase_1_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Local_Green_Space,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_07.gpkg,Local_Plan_Aggregate_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Local_Plan_Canal,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Local_Plan_Central_London_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Local_Plan_Centres,True,tier1,1,Include: official Camden/GLA Local Plan service identifies 'Local Plan Centres' as a polygon centre layer.
+planning_local_plan_data_07.gpkg,Local_Plan_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_07.gpkg,Local_Plan_Habitat_Corridor,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_07.gpkg,Local_Plan_Industry_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Local_Plan_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Local_Plan_Open_Space_SINC,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Local_Plan_Open_Space_SSSI,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Metropolitan_Walk,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_07.gpkg,Neighbourhood_Plan_Adopted,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_07.gpkg,Protected_Vistas_LVMF_2010,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Site_Allocations__Adopted_,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_07.gpkg,Waste_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_08.gpkg,Archaelogical_Priority_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_08.gpkg,Areas_of_Focussed_Intensification,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_08.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_08.gpkg,Flood_Zone_2,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_08.gpkg,Flood_Zone_3,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_08.gpkg,Integrated_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_08.gpkg,Landmarks,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_08.gpkg,Local_Designated_Views,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_08.gpkg,Local_Heritage_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_08.gpkg,Locally_Listed_Historic_Parks_and_Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_08.gpkg,Main_Retail_Frontage,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_08.gpkg,Metropolitan_Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_08.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_08.gpkg,Neighbourhood_Centres,False,,99,"Exclude despite centre-related semantics: source geometry is point/line rather than polygon, so it cannot define the areal centre boundary required for Article 4 overlap."
+planning_local_plan_data_08.gpkg,Office_Retention_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_08.gpkg,Opportunity_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_08.gpkg,Other_Undesignated_Open_Space_Protected_by_London_Plan_Policy_7_18,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_08.gpkg,Panoramic_Views,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_08.gpkg,Proposal_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_08.gpkg,Regionally_Important_Geological_And_Geomorphological_Sites,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_08.gpkg,Registered_Historic_Parks_And_Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_08.gpkg,Restaurant_Quarter_Parade,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_08.gpkg,Roads_where_Planning_Permission_is_Required_for_a_Dropped_Kerb,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_08.gpkg,Secondary_Retail_Frontage,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_08.gpkg,Separated_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_08.gpkg,Shopping_Parades,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_08.gpkg,Sites_of_Importance_to_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_08.gpkg,Sites_of_Special_Scientific_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_08.gpkg,Strategic_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_08.gpkg,Strategic_Road_Network,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_09.gpkg,Acton_Green_Corridor,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_09.gpkg,Archaelogical_Interest_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_09.gpkg,Blue_Ribbon,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_09.gpkg,Buildings_of_Façade_or_Group_Value,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_09.gpkg,CENP_Local_Green_Space,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_09.gpkg,CENP_Local_Landmarks,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_09.gpkg,CENP_Site_Specific,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_09.gpkg,Community_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,Development_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_09.gpkg,Green_Corridor,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_09.gpkg,Heritage_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,Landmarks,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_09.gpkg,Local_Heritage_Assets,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_09.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,Metropolitan_Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,Mineral_Aggregate_Distribution_Site,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_09.gpkg,Neighbourhood_Forum,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_09.gpkg,OPDC_Boundary,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_09.gpkg,Opportunity_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,Primary_Shopping_Frontage,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,Proposed_Public_Open_Space,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_09.gpkg,Public_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,Regionally_Important_Geological_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,School_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,Secondary_Shopping_Frontage,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,Sites_of_Importance_to_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,Strategic_Industrial_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_09.gpkg,WECNP_Site_Specific,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_09.gpkg,Waste_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Areas_of_Special_Character,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Crossrail_2_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Future_SIL_Extensions,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_10.gpkg,Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Green_Belt_Employment_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Green_Links,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_10.gpkg,Green_Loop,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_10.gpkg,Green_Nodes,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_10.gpkg,Indicative_Location_for_Housing_GB,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_10.gpkg,Lea_Valley_Regional_Park,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_10.gpkg,Local_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,London_National_Park_City,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_10.gpkg,Medium_Growth_Burial,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_10.gpkg,Medium_Growth_Housing,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_10.gpkg,Medium_Growth_Industrial,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Medium_Growth_Mixed_Use,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_10.gpkg,Medium_Growth_Nature_Recovery,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_10.gpkg,Medium_Growth_Sporting_Leisure,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_10.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Place_Making_Area_Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Place_Making_Area_Urban_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_10.gpkg,Primary_Shopping_Frontage,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_10.gpkg,SAC_Buffers_3_6k_zoi,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_10.gpkg,Site_of_Borough_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Site_of_Local_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Site_of_Metropolitan_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Sites_of_Special_Scientific_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_10.gpkg,Strategic_Industrial_Location,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_10.gpkg,Wildlife_Corridor,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Aggregates_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_11.gpkg,Areas_of_Special_Character,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Capital_Ring,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,Community_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Established_Riverside_Walk,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,Flood_Risk_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Green_Chain,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Green_Chain_Walk,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,Historic_Landscape,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_11.gpkg,Junction_Improvements,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,Local_Centre_Frontage,False,,99,"Exclude despite centre-related semantics: source geometry is point/line rather than polygon, so it cannot define the areal centre boundary required for Article 4 overlap."
+planning_local_plan_data_11.gpkg,Local_Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Local_Roads,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,London_City_Airport_Safeguarding_Zone,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,London_Distributor_Roads,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Neighbourhood_Parades,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,New___Improved_Riverside_Walk,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,Primary_Shopping_Frontage,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,Proposed_Footpath_Link,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,Railfreight_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Regionally_Important_Geological___Geomorphological_Site,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,River_Crossing_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Road_Safeguarding_Area,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,Safeguarded_Waste_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Safeguarded_Wharves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Secondary_Shopping_Frontage,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Sites_of_Special_Scientific_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_11.gpkg,Strategic_Development_Locations,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_11.gpkg,Strategic_Industrial_Location,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,Strategic_Roads,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,Strategic_Views,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,Thames_Policy_Area,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_11.gpkg,World_Heritage_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_11.gpkg,World_Heritage_Site_Buffer_Zone,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Central_Activities_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_12.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Critical_Drainage_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_12.gpkg,Existing_Waste_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Flood_Zone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Flood_Zone_3,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Green_Chains,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_12.gpkg,Green_Corridors,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_12.gpkg,Industrial_Sites__note__LSIS_,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Local_Open_Spaces,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Primary_Shopping_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_12.gpkg,Priority_Industrial_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Priority_Office_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_12.gpkg,Regionally_Important_Geological_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Registered_Parks___Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_12.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_12.gpkg,Strategic_Views,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_13.gpkg,Aerodrome_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Ancient_Monuments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Community_Infrastructure_Levy,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Conservation_Areas__OPDC_,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Green_Corridors,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_13.gpkg,Heliport_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Historic_Parks_And_Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_13.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Nature_Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Notifiable_Installations,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_13.gpkg,Open_Spaces,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Opportunity_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Primary_Shopping_Frontage,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Rail_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Regeneration_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_13.gpkg,Road_Network_Classification,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_13.gpkg,Safeguarded_Wharves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,Strategic_Routes,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_13.gpkg,Strategic_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_13.gpkg,Strategic_Views,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_13.gpkg,Thames_Path,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_13.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_13.gpkg,View_Points,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_13.gpkg,View_Points_Polygons,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Areas_Of_Change,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Article_4___HMOs,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Article_4___Heartlands_Rail_Corridor,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Article_4___Warehouse_to_Residential,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Article_4___Works_Within_Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Blue_Ribbon_Network,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_14.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Critical_Drainage_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Cultural_Quarter,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Ecological_Corridors,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Employment_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Family_Housing_Protection_Zones,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Flood_Zone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Flood_Zone_3,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Green_Chains,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_14.gpkg,Heritage_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Historic_Parks,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Lee_Valley_Regional_Park,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Listed_Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Local_Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Locally_Listed_Building,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Primary_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_14.gpkg,Regeneration_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Secondary_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_14.gpkg,Significant_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,South_Tottenham_House_Extensions,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Strategic_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,TPOs,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Tottenham_AAP,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Viewing_Corridor,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_14.gpkg,Waste_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_14.gpkg,Wider_Setting,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_15.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Areas_Of_Special_Character,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Article_4_Direction__Land_Subject_to_,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Business_Use_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_15.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Core_Strategy_Sub_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_15.gpkg,Designated_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Designated_Shopping_Frontage_in_Local_Centres,False,,99,"Exclude despite centre-related semantics: source geometry is point/line rather than polygon, so it cannot define the areal centre boundary required for Article 4 overlap."
+planning_local_plan_data_15.gpkg,Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Green_Chains_and_Corridors,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Industrial_and_Business_Use_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Listed_Buildings,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_15.gpkg,Local_Plan_Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Locally_Listed_Buildings,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_15.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Neighbourhood_Parades,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_15.gpkg,Open_Space_Sport_and_Recreation_Site_Typologies,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Opportunity_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Protected_Views_Restricted_Corridor,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_15.gpkg,Protected_Views_Setting_Corridor,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_15.gpkg,Regionally_Important_Geological_Site,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_15.gpkg,Registered_Parks_and_Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_15.gpkg,Residential_Character_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_15.gpkg,Scheduled_Ancient_Monuments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Secondary_Shopping_Frontage_in_Local_Centres,False,,99,"Exclude despite centre-related semantics: source geometry is point/line rather than polygon, so it cannot define the areal centre boundary required for Article 4 overlap."
+planning_local_plan_data_15.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_15.gpkg,Sites_of_Special_Scientific_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_15.gpkg,Strategic_Industrial_Location,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Burial_Spaces,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_16.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Crossrail_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Dagenham_to_Thames_Tunnel,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Emerson_Ppark_Policy_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_16.gpkg,Flood_Zone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Flood_Zone_3,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Gypsy_Traveller_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Hall_Lane_Policy_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_16.gpkg,Large_Potential_Wind_Development_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_16.gpkg,Local_Centres,False,,99,"Exclude despite centre-related semantics: source geometry is point/line rather than polygon, so it cannot define the areal centre boundary required for Article 4 overlap."
+planning_local_plan_data_16.gpkg,Local_Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Medium_Potential_Wind_Development_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_16.gpkg,Metropolitan_Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Minerals_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Out_of_Town_Centres,False,,99,Out-of-town centre designation is outside the analytical centre construct.
+planning_local_plan_data_16.gpkg,Parks__Open_Spaces__Playing_Fields_and_Allotments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Primary_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_16.gpkg,Proposed_Beam_Park_Station,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_16.gpkg,Retained_Site_Specific_Allocations,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_16.gpkg,River_Room,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_16.gpkg,Romford_Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Safeguarded_Wharves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Scheduled_Monuments,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_16.gpkg,Secondary_Employment_Areas__called_LSIL_in_file_name_,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Secondary_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_16.gpkg,Site_of_Special_Scientific_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_16.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Small_Potential_Wind_Development_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_16.gpkg,Strategic_Development_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_16.gpkg,Strategic_Industrial_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Thames_Chase_Community_Forest,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_16.gpkg,Wildlife_Corridors,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_17.gpkg,Air_Quality_Management_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Areas_Of_Special_Character,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Colne_Valley_Park,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_17.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Critical_Drainage_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_17.gpkg,Flood_Zone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Flood_Zone_3,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Grand_Union_Canal,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_17.gpkg,Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Green_Links,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_17.gpkg,Hayes_Housing_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_17.gpkg,Heathrow_Airport_Boundary,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Key_Transport_Interchanges,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Listed_Building_Points,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_17.gpkg,Listed_Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Locally_Listed_Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Locally_Listed_Buildings_Points,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_17.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Mineral_And_Railhead_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,National_Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Nature_Conservation_Sites_Grade_1,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Nature_Conservation_Sites_Grade_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Public_Safety_Zones,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_17.gpkg,Rebalancing_Employment_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Regionally_Important_Geological_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Registered_Parks_And_Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_17.gpkg,Road_Safeguarding,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_17.gpkg,Scheduled_Ancient_Monuments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,School_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Sites_For_Gypsies_And_Travellers,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_17.gpkg,Sites_of_Special_Scientific_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_18.gpkg,Advert_Special_Control_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_18.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Areas_Of_Special_Character,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Historic_Parks___Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_18.gpkg,Industrial_Business_Parks,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Key_Existing_Office_Locations,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_18.gpkg,Large_Neighbourhood_Centres,False,,99,"Exclude despite centre-related semantics: source geometry is point/line rather than polygon, so it cannot define the areal centre boundary required for Article 4 overlap."
+planning_local_plan_data_18.gpkg,Listed_Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Local_Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Local_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Metropolitan_Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Preferred_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Primary_Shopping_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_18.gpkg,Secondary_Shopping_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_18.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Sites_of_Special_Scientific_Interest,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_18.gpkg,Small_Neighbourhood_Centres,False,,99,"Exclude despite centre-related semantics: source geometry is point/line rather than polygon, so it cannot define the areal centre boundary required for Article 4 overlap."
+planning_local_plan_data_18.gpkg,Special_Protection_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_18.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_18.gpkg,Waterways,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_19.gpkg,Adventure_Playgrounds,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_19.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,Central_Activities_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_19.gpkg,Central_Activities_Zone_Fringe,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_19.gpkg,City_Fringe_Opportunity_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,Cultural_Quarters,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_19.gpkg,Local_Landmarks,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,Local_Views,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,London_Squares,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_19.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,Priority_Employment_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,Priority_Employment_Locations2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,Scheduled_Monuments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_19.gpkg,Waste_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_20.gpkg,Archaeological_Priority_Area__Thames_,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_20.gpkg,Areas_Unsuitable_For_Diplomatic_Uses,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_20.gpkg,Central_Activities_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_20.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_20.gpkg,Cremorne_Safeguarded_Wharf,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_20.gpkg,Employment_Zones,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_20.gpkg,Existing_Thames_Path,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_20.gpkg,Flood_Risk_Zone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_20.gpkg,Flood_Risk_Zone_3,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_20.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_20.gpkg,Proposed_Thames_Path,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_20.gpkg,Rail_Safeguarding_Lines,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_20.gpkg,Red_Routes,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_20.gpkg,Sites_of_Archaelogical_Importance,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_20.gpkg,Sites_of_Nature_Conservation_Importance,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_20.gpkg,South_Kensington_Strategic_Cultural_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_20.gpkg,Strategic_Roads,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_20.gpkg,Strategic_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_20.gpkg,Strategic_View_Of_St_Paul_S_Cathedral_From_King_Henry_S_Mound__Richmond_Park,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_20.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_21.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_21.gpkg,Area_of_Special_Character___Kingston_Town_Centre,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_21.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_21.gpkg,Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_21.gpkg,Green_Chains,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_21.gpkg,Green_Corridors,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_21.gpkg,Key_Views,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_21.gpkg,Local_Areas_of_Special_Character,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_21.gpkg,Local_Centres,False,,99,"Exclude despite centre-related semantics: source geometry is point/line rather than polygon, so it cannot define the areal centre boundary required for Article 4 overlap."
+planning_local_plan_data_21.gpkg,Local_Open_Spaces,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_21.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_21.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_21.gpkg,Primary_Shopping_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_21.gpkg,Secondary_Shopping_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_21.gpkg,Shopping_Frontages__other_,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_21.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_21.gpkg,Strategic_industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_21.gpkg,Waste_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Approaches_to_Westminster_World_Heritage_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Central_Activities_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_22.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Creative_Business_Cluster,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_22.gpkg,Creative_Enterprise_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_22.gpkg,Evening_Economy_Management_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_22.gpkg,Flood_Risk_Zone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Flood_Risk_Zone_3,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Gypsy_and_Traveller_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Helipad_150m_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_22.gpkg,Helipad_90m_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_22.gpkg,Historic_Parks_and_Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_22.gpkg,Immediate_Setting_of_Westminster_World_Heritage_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Local_Heritage_List___Archaeology__,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Local_Heritage_List___Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Local_Heritage_List___Spaces,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Local_Nature_Reserve,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,London_Distributor_Roads,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_22.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Opportunity_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Protected_London_Squares,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_22.gpkg,Protected_Vistas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Safeguarded_Waste_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Site_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_22.gpkg,Strategic_Cultural_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_22.gpkg,TfL_Road_Network,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_22.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Appropriate_Location_for_Tall_Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Bakerloo_Line_Extension_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Cultural_Quarters,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_23.gpkg,Locally_Important_Geological_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,London_Squares,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_23.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Mixed_Use_Employment_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Opportunity_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Regeneration_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_23.gpkg,Regionally_Important_Geological_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Safeguarded_Wharves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,South_East_London_Green_Chain_Walk,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_23.gpkg,Strategic_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Strategic_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_23.gpkg,Thamesfoot_Path,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_23.gpkg,Waterlink_Way,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Archaeological_Priority_Zones,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Car_Parking_Zones,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_24.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Core_Shopping_Frontages,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Crossrail_2,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Crystal_Palace_to_Wimbledon_Tram_Line,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Crystal_Palace_to_Wimbledon_Tram_Line2,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_24.gpkg,Dual_Track_Tram_Line,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Existing_Cycle_Network,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Flood_Risk_Zone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Flood_Risk_Zone_3,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Green_Chains,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Green_Corridors,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_24.gpkg,Historic_Parks___Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_24.gpkg,Listed_Buildings,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Local_Estates_Plan,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_24.gpkg,Local_Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Northern_Line_Underground,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Proposed_Cycle_Hubs,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Proposed_Cycle_Routes,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Proposed_New_Tram_Stops,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Proposed_Pedestrian_and_Cycle_Route,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Road_Junction_Improvements,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Road_Network_Improvements,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Safeguarded_Land_Adjoining_District_Line,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Scheduled_Ancient_Monuments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Secondary_Shopping_Frontages,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Site_Proposals,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_24.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Sites_of_Special_Scientific_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_24.gpkg,South_London_Waste_Plan,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Strategic_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Sustainable_Transport_Corridor,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Thameslink,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_24.gpkg,Wandle_Valley_Regional_Park,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_24.gpkg,Wandle_Valley_Regional_Park_400M_Buffer,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_24.gpkg,Wimbledon_Centre_Shopping_Frontages,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_24.gpkg,Wimbledon_To_Morden_Sutton_Tram,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_25.gpkg,Areas_of_Townscape_Value,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Barking_to_Royal_Docks_Corridor,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_25.gpkg,Cable_Car_Protection_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_25.gpkg,Community_Facilities,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Community_Facility_Opportunity_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Crossrail_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,DLR_Dagenham_Dock_Extension,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_25.gpkg,Employment_Hubs,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Flood_Defence_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Green_Space,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_25.gpkg,Housing_Allocations,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_25.gpkg,Joint_Waste_Plan_Safeguarding_Site_Schedule_1,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_25.gpkg,LLDC_Within_Newham,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_25.gpkg,Land_Bridge,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_25.gpkg,Lee_Valley_Regional_Park_Authority_Boundary,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_25.gpkg,Local_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Local_Mixed_Use_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,London_City_Airport_Public_Safety_Zone,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,London_City_Airport_Public_Safety_Zone_10_4_Risk_Contour,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Micro_Business_Opportunity_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,New_DLR_Station,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_25.gpkg,PLA_Beckton_Radar_Sightline,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_25.gpkg,PLA_Radar_Stations,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_25.gpkg,Potential_Waste_Site,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_25.gpkg,Primary_Shopping_Frontages,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Protection_Of_Mooring_Points_For_Riverbus_Services,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_25.gpkg,Protection_Of_Public_Access_Points_To_Riverbus_Services,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_25.gpkg,Recreational_Footpath_Network,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_25.gpkg,Safeguarded_Wharves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Silvertown_Tunnel_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Strategic_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Strategic_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_25.gpkg,Thames_Gateway_Bridge_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Thames_Tideway_Tunnels_Construction_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_25.gpkg,Thames_Tideway_Tunnels_Safeguarding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Blue_Ribbon,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_26.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Enhanced_Community_Facilities,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Flood_Zone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Flood_Zone_3,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Flood_Zone_3A_High_Probability,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Flood_Zone_3B_Functional_Floodplain,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Gypsy_Traveller_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Historic_Parks___Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_26.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Mineral_Search_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_26.gpkg,Open_Spaces,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Opportunity_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_26.gpkg,Preferred_Areas_for_Mineral_Extraction,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_26.gpkg,Primary_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_26.gpkg,Recreational_Zones_of_Influence,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_26.gpkg,Residential_Precincts,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_26.gpkg,Sangs_Measures,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_26.gpkg,Secondary_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_26.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Sites_of_Special_Scientific_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_26.gpkg,Special_Areas_Of_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Strategic_Access_Management_Measures,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_26.gpkg,Strategic_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Surface_Water_Flood_Extent,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Tall_Buildings_Zones,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_26.gpkg,Waste_Safeguarded_Facilities,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_27.gpkg,Area_Poorly_Provided_With_Public_Space,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_27.gpkg,Area_of_Mixed_Use,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_27.gpkg,Frontage_Subject_to_Specific_Restrictions,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_27.gpkg,Greenbelt,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_27.gpkg,Historic_Parks___Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_27.gpkg,Key_Shopping_Frontage,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_27.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_27.gpkg,Other_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_27.gpkg,Other_Sites_of_Nature_Importance,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_27.gpkg,Primary_or_Secondary_Road,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_27.gpkg,Proposed_Tree_Planting,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_27.gpkg,Public_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_27.gpkg,River_Crane_Area_of_Opportunity,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_27.gpkg,SSSI,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_27.gpkg,Scheduled_Ancient_Monument,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_27.gpkg,Secondary_Shopping_Frontage,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_27.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_27.gpkg,View_,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_27.gpkg,Vista_Landmark,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_27.gpkg,Waste_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Action_Area_Cores,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Action_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Air_Quality_Management_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Area_Vision_Boundaries,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Bakerloo_Line_Extension_Areas_Of_Sub_Surface_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Borough_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Borough_View_Landmark_Viewing_Corridors,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Borough_View_Wider_Setting_Consultation_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Borough_Viewpoint_Locations,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_28.gpkg,Business_Improvement_Districts,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Central_Activities_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Classified_Roads,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_28.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Critical_Drainage_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Cycling_Spine_Network,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_28.gpkg,Existing_Cycle_Networks,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_28.gpkg,Flood_Zone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Flood_Zone_3,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Green_Chain_Link,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_28.gpkg,Green_Chain_Parks,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Gypsy___Traveller_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Hot_Food_Takeaway_Primary_School_Exclusion_Zones,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Hot_Food_Takeaway_Secondary_School_Exclusion_Zones,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Integrated_Waste_Management_Facility,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Local_Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,London_View_Management_Framework_Extended_Background_Vistas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,London_View_Management_Framework_Landmark_Viewing_Corridors,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,London_View_Management_Framework_Wider_Setting_Consultation_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Low_Line_And_Railway_Arches,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,National_Rail_Stations,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_28.gpkg,Neighbourhood_Plan_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Open_Water_Space,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Opportunity_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Other_Open_Spaces,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Primary_Schools,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Protected_Shopping_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_28.gpkg,Registered_Parks_And_Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Scheduled_Monuments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Secondary_Schools,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Strategic_Cultural_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Strategic_District_Heating_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Strategic_Protected_Industrial_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Suburban_Zones,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_28.gpkg,Surface_Water_Flood_Risk_High,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Surface_Water_Flood_Risk_Low,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Surface_Water_Flood_Risk_Medium,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Tall_Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Thames_Piers,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_28.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_28.gpkg,Urban_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_29.gpkg,Allotments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Areas_At_Risk_Of_Flooding,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Areas_of_Potential_Intensification,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_29.gpkg,Areas_of_Special_Local_Character,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_29.gpkg,Areas_of_Taller_Building_Potential,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_29.gpkg,Burial_Spaces,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_29.gpkg,Central_Setting,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_29.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Decentralised_Energy_Opportunity_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Established_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Green_Corridors,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_29.gpkg,Gypsy_And_Traveller_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Hackbridge_And_Beddington_Corner_Neighbourhood_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_29.gpkg,Historic_Parks_and_Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_29.gpkg,Listed_Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Locally_Listed_Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Metropolitan_Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Metropolitan_Green_Chains,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Potential_Renewal_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_29.gpkg,Primary_Shopping_Frontages,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Proposed_Tramlink_Extensions,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_29.gpkg,Public_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Scheduled_Ancient_Monuments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Secondary_Shopping_Frontages,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Strategic_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_29.gpkg,Urban_Green_Space,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_29.gpkg,Wandle_Valley_Regional_Park,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Area_Of_Substandard_Air_Quality_NO2_Over_40,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Area_Of_Substandard_Air_Quality_No2_Over_60,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Borough_Designated_Views,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_30.gpkg,Borough_Landmarks,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_30.gpkg,Central_Activities_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,Central_Activities_Zone_Frontage,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Critical_Drainage_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,Cycle_Hire_Stations,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_30.gpkg,Cycle_Superhighways,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_30.gpkg,Flood_Risk_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Flood_Zone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Flood_Zone_3A,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Flood_Zone_3B,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Green_Grid,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_30.gpkg,Green_Grid_Buffer_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,LLDC_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,Lee_Valley_Regional_Park,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_30.gpkg,Local_Employment_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Local_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Local_Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,London_Cycle_Network,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_30.gpkg,London_Squares,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,London_View_Management_Framework,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,National_Cycle_Network,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_30.gpkg,New_Green_Grid,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_30.gpkg,New_Green_Grid_Buffer_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,Preferred_Office_Locations,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,Publicly_Accessible_Open_Space,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Registered_Parks_and_Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,Safeguarded_Wharves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Safeguarded_for_Gypsies_and_Traveller_Accommodation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Scheduled_Ancient_Monuments,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Shopping_Frontages,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_30.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Southeast_Inshore_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,Statutory_Listed_Buildings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Strategic_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Strategically_Important_Landmarks,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_30.gpkg,Strategically_Important_Skyline,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,Sub_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,Tall_Building_Zones,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Tower_Hamlets_Activity_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,Transport_Stations,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_30.gpkg,Waste_Management_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,Water_Space,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_30.gpkg,World_Heritage_Site_And_Buffer_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_30.gpkg,World_Heritage_Site_Views,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_31.gpkg,Allotment_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Archaeological_Priority_Zone,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Area_of_Special_Character,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,BHL_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_31.gpkg,Biodiversity_Enhancement_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_31.gpkg,Borough_Employment_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Crossrail_2_Safeguarding_Line,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Flood_Zone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Flood_Zone_3a,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Flood_Zone_3b,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Green_Corridor,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_31.gpkg,Hall_Farm_Curve,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_31.gpkg,Historic_Parks_and_Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_31.gpkg,Key_Sites,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_31.gpkg,LVPRA_Boundary,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_31.gpkg,Lea_Bridge_Station,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_31.gpkg,Lee_Valley_Pathway_Corridor,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_31.gpkg,Lee_Valley_Regeneration_Corridor,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_31.gpkg,Lee_Valley_Regional_Park,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_31.gpkg,Local_Nature_Reserve,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Locally_Important_Geological_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Mayoral_Development_Corporation,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_31.gpkg,Metropolitan_Green_Belt,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Parks,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_31.gpkg,Playing_Fields,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_31.gpkg,Primary_Shopping_Frontages,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Principal_Roads,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_31.gpkg,Rail_Network,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_31.gpkg,Rail_Stations,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_31.gpkg,Ramsar___Special_Protection_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_31.gpkg,Secondary_Shopping_Frontages,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Shopping_Frontages,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Sites_of_Importance_to_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Sites_of_Special_Scientific_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_31.gpkg,Special_Areas_of_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Strategic_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_31.gpkg,Transport_for_London_Road_Network,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_31.gpkg,Watham_Forest_Greenways,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_31.gpkg,Wetlands_Walk,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_32.gpkg,Archaeological_Priority_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Area_Spatial_Strategy,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_32.gpkg,Central_Activities_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_32.gpkg,Character_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_32.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Crossrail_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Decentralised_Enery_Opportunity_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Designated_Linear_View,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_32.gpkg,Economic_Use_Intensification_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_32.gpkg,Employment_Protection_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Focal_Points_of_Activity,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_32.gpkg,Gypsy_And_Traveller_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Historic_Parks_And_Gardens,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_32.gpkg,Local_Nature_Reserves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Locally_Significant_Industrial_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Nine_Elms_Vauxhall_Opportunity_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Other_Frontages,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Other_Large_Protected_Open_Spaces,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Protected_Core_Shopping_Frontages,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Protected_Secondary_Shopping_Frontages,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Putney_Embankment_Policy_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_32.gpkg,Safeguarded_Wharves,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Site_Specific_Allocations,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_32.gpkg,Sites_of_Special_Scientific_Interest,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_32.gpkg,Special_Areas_of_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Strategic_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_32.gpkg,Thames_Tideway_Tunnel_Safeguarded_Planning_Zones,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_33.gpkg,Areas_of_Nature_Deficiency,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_33.gpkg,Areas_of_Open_Space_Deficiency,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_33.gpkg,Central_Activities_Zone,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_33.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_33.gpkg,Housing_Renewal_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_33.gpkg,Monument_Saturation_Zone,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_33.gpkg,North_West_Economic_Development_Area,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_33.gpkg,Opportunity_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_33.gpkg,Strategic_Cultural_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_33.gpkg,Thames_Policy_Area,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_33.gpkg,World_Heritage_Site,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_34.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_34.gpkg,Crossrail_Safeguarding_Line,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_34.gpkg,Employment_Clusters,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_34.gpkg,Local_Open_Spaces,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_34.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_34.gpkg,Safeguarded_Rail_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_34.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_34.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_34.gpkg,Strategic_Cycle_Network,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_34.gpkg,Strategic_Walking_Routes,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_35.gpkg,Article_4_Directions_2017__Storage_and_distribution_uses_to_residential_,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,Article_4_Directions_2022__Commercial__business_and_service_to_residential_,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,Conservation_Areas,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,Existing_Enhanced_Routes,False,,99,Exclude: non-polygon geometry cannot define the areal centre boundary required for spatial overlap/exposure.
+planning_local_plan_data_35.gpkg,HS2_Extended_Homeowner_Protection_Zones_2016,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_35.gpkg,HS2_Safeguarding_2016,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,Heritage_Listings,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,Metropolitan_Open_Land,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,National_Floodzone_2,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,National_Floodzone_3,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,Neighbourhood_Areas,False,,99,No apparent centre-boundary signal in the layer name.
+planning_local_plan_data_35.gpkg,Safeguarded_Gypsy___Traveller_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,Site_Allocations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,Sites_of_Importance_for_Nature_Conservation,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,Strategic_Industrial_Locations,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,T_200_Year_Flood_Risk___0_1,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,T_200_Year_Flood_Risk___0_3,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
+planning_local_plan_data_35.gpkg,Waste_Sites,False,,99,Layer name indicates another policy/designation or a frontage rather than the centre boundary.
